@@ -85,7 +85,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
+[<img src="sert_QA_middle_rus.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/MVS-QA/MVS-QA/refs/heads/main/sert_QA_middle_rus.png)
 [<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
 
 <br>
